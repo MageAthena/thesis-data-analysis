@@ -1,0 +1,25 @@
+Timestamp,Which visualisation did you use?,How much did the visualisation benefit your understanding?,About how far above the Earth are geostationary satellites? (in terms of the radius of the Earth),About how far above the Earth are Low Earth Orbit satellites? (in terms of the radius of the Earth),"When a satellite gets closer to the Earth in its orbit, does its speed:",About how many satellites are in orbit?,"Compared to satellites further away from the earth, do lower orbit satellites:",What did you find helped the most with your understanding?,What aspect of the visualisation could use the most improvement?
+07/09/2022 09:19:12,Augmented Reality,3,1,3,Speed up,250,Move faster,,Goggles didn’t fit as well/had latency errors.
+07/09/2022 09:21:21,Augmented Reality,3,8,0.08,Speed up,1000,Move faster,The visualisation from space,Wearing the glasses can be disorienting. Unsure why though. Maybe it’s the low frame rate
+07/09/2022 09:29:26,Augmented Reality,5,6,0.1,Slow down,4000,Move slower,Understanding the position of the satellites relative to the earth and each other. ,An introduction /onboarding process with a description or guide to the experience would be great.
+07/09/2022 09:37:01,Augmented Reality,3,40000,10000,Speed up,1000,Move faster,the orbit of the satellites,Maybe specify what does each different colour means
+07/09/2022 09:40:17,Augmented Reality,4,35800,0.313,Speed up,4550,Move slower,The mode and the speed setting of the moving of the satellite ,"Ground view, it can not really show the position of the satellites regarding the earth"
+07/09/2022 09:48:48,Augmented Reality,5,1,0.5,Speed up,200,Move slower,,
+07/09/2022 09:48:51,Augmented Reality,4,50,200,Speed up,10000,Move slower,Seeing the amount of space junk in the sky,"Maybe a mode to switch between focusing on GEO and LEO, I found it impossible to focus on the GEO as the cursor could not hit behind the LEO"
+07/09/2022 10:05:54,Augmented Reality,3,5,0.5,Speed up,5000,Move faster,Intuitive data visualization,could be more realistic and immersive
+07/09/2022 10:17:34,Augmented Reality,5,1000,750,Speed up,10000,Move faster,Very helpful. Could have used some statistics,Information given if you click on a specific satellite 
+08/09/2022 14:20:20,TAROT (2D),3,5,5,Slow down,10000,Move at the same speed,Saw a lot of sattlites ,See the number of sattlites probably 
+08/09/2022 14:21:58,TAROT (2D),5,5,0.3,Speed up,10000,Move faster,The visualisation of the earth from far away perspective with time controls ,Smoother animations when moving fast (1 day)
+08/09/2022 14:25:06,TAROT (2D),4,35000,2000,Slow down,4500,Move slower,"The speed, the track",The s/min/day change to move 
+08/09/2022 14:25:58,TAROT (2D),4,50,20,Speed up,6000,Move faster,The visual allowed me to see all of them really well,Distinction that all dots are satellites even the further away ones
+08/09/2022 14:31:34,TAROT (2D),4,30,4,Slow down,300,Move faster,The visualisation of satellites helped me better conceptualise how many exist and how fast they orbit Earth,Maybe a number of how many types of different satellites in corner with a legend like Starlink: 100 (blue)
+08/09/2022 14:40:11,TAROT (2D),3,30,30,Slow down,10000,Move faster,,
+08/09/2022 14:44:57,TAROT (2D),4,100,50,Speed up,100000,Move at the same speed,Visualisation of the satellites,
+08/09/2022 14:51:33,TAROT (2D),3,2.5,0.2,Speed up,2000,Move faster,Visualizing the distance between the different satellites,
+08/09/2022 14:57:18,TAROT (2D),4,1,0.5,Slow down,10000,Move slower,Thé visualisation overlooking the earth and satellites ,"The view from the earth was a slightly disorienting, I couldn’t tell exactly where I was or which direction I was looking in so the NSEW marks could be clearer "
+08/09/2022 15:09:46,TAROT (2D),2,0.2,0.05,Slow down,3000,Move slower,The visualisation of the satellites helped put everything into scope.,Better colour coding
+09/09/2022 12:06:38,Augmented Reality,5,10000,10000,Stay the same,1000,Move at the same speed,Actually more satellites than what I thought ,"Hardware: screen is too small
+Software: maybe including the distance roughly, because I still have no idea about the how far above question after using the device"
+09/09/2022 12:08:38,Augmented Reality,5,10000,3689,Speed up,10000,Move slower,It is really helpful to understand the speed around the earth,Show all the numbers of how far it is.
+09/09/2022 14:57:48,TAROT (2D),3,1000,100,Stay the same,2000,Move faster,I didn’t know there were that many satellites in the orbit but this helped me understand there’s quite a lot of them,It already looks good to me
+09/09/2022 14:58:34,TAROT (2D),5,0.2,0.1,Speed up,10000,Move faster,Seeing all the satellites around the earth! And comparing their velocities,Seeing which satelites are geostationary vs low earth orbit 
